@@ -47,3 +47,4 @@ contract LiquidityRewardDApp {
         return rewardAmount;
     }
 }
+Try to find something news
