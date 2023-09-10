@@ -47,4 +47,4 @@ contract LiquidityRewardDApp {
         return rewardAmount;
     }
 }
-Try to find something news if it possible maybe 
+> pass by agregator to auto swap & auto coumpound each day or week or month as u choice 
