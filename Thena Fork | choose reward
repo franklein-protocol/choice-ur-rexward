@@ -2,7 +2,7 @@
 pragma solidity ^0.8.0;
 leviosa
 import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
-
+ note 1 : new entries from massa world to help improvment
 contract LiquidityRewardDApp {
     address public owner;
     IERC20 public liquidityToken;
@@ -36,6 +36,7 @@ contract LiquidityRewardDApp {
         userRewards[msg.sender] = 0; // Reset user's rewards
 
         require(liquidityToken.transfer(msg.sender, userReward), "Reward transfer failed");
+
 
         emit RewardClaimed(msg.sender, userReward);
     }
