@@ -50,9 +50,5 @@ contract LiquidityRewardDApp {
 }
 > pass by agregator to auto swap & auto coumpound each day or week or month as u choice 
 > power to choice the acount and the chain where reward will be deposited , easier to follow ur growth
-> prbl with the script fix it
-> find new guys to search partner for big incentives to reech peacefully 50% apr on 6 month 
-anyway no othe roptiuons than build from IA ; nice try but not find good ia for moment 
-try to find a news protopose
-commit and useful dev
-try it or sie 
+> pool choice : busd , cbdc. token in wallet : eth : enter dollar number u want on the pool (ex : 2500$) , automaticely calcul and swap for the right number of busd ans cbdc for the pool. 
+>> no calcul , not 5-6 tx to adjust > better win and earn time for farming.
