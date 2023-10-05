@@ -55,5 +55,4 @@ contract LiquidityRewardDApp {
 > pool choice : busd , cbdc. token in wallet : eth : enter dollar number u want on the pool (ex : 2500$) , automaticely calcul and swap for the right number of busd ans cbdc for the pool. 
 >> no calcul , not 5-6 tx to adjust > better win and earn time for farming.
 it necessery to pass by an big agregator possible with sandwich protection to avoir jared like. and a bot can more often claim and coumpound to maximlise reward and friendly use advise for futur. 
-
-
+the hipster should keep helmet 
