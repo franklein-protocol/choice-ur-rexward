@@ -50,12 +50,4 @@ contract LiquidityRewardDApp {
         return rewardAmount;
     }
 }
-> pass by agregator to auto swap & auto coumpound each day or week or month as u choice 
-> power to choice the acount and the chain where reward will be deposited , easier to follow ur growth
-> pool choice : busd , cbdc. token in wallet : eth : enter dollar number u want on the pool (ex : 2500$) , automaticely calcul and swap for the right number of busd ans cbdc for the pool. 
->> no calcul , not 5-6 tx to adjust > better win and earn time for farming.
-it necessery to pass by an big agregator possible with sandwich protection to avoir jared like. and a bot can more often claim and coumpound to maximlise reward and friendly use advise for futur. 
-
-ain't no sunshine where she go 
-but there hope. modification upload on week3 after the 12october. implementation of test for APY bot link to automatise 
-the probleme is the fees / cost of external services. so make it possible and secure not take less than months of setting
+Implementing bridge low fees auto. pretty dangerous , slippag edam too high. I guess , people choice have a web page where there a ranking of APY reward / bcv 
